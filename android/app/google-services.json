@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "590206005469",
+    "project_id": "house-re-6500a",
+    "storage_bucket": "house-re-6500a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590206005469:android:ea5fdb7462e47576b4eb34",
+        "android_client_info": {
+          "package_name": "com.example.house_record"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590206005469-7ktj78i7htvq3haojo117agod9oq8q4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMFsfYrv6P0ppEau8gYv2s1CTt1wA6V-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590206005469-7ktj78i7htvq3haojo117agod9oq8q4b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590206005469-1beqgtavqhqda4uegtufogdo9o7dtu4g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.houseRecord"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
